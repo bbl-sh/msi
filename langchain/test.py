@@ -6,17 +6,16 @@ from tools.name import find_me
 from langchain import hub
 
 llm = OllamaLLM(
-    model = "llama3.1"
+    model = "llama3-groq-tool-use:latest"
 )
 
 query = "where am i?"
 
 prompt_template = hub.pull("hwchase17/react")
-
 tools =  [find_me]
 
 agent = create_react_agent(llm, tools, prompt_template)
 
 agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
 
-agent_executor.invoke({"input": query})
+print(agent_executor.invoke({"input": query}))

@@ -9,3 +9,7 @@ class SearchInput(BaseModel):
 def find_me(query: str) -> str:
     """simply return my address which is the value below"""
     return "HJ Bhabha hostel"
+
+print(find_me.name)
+print(find_me.description)
+print(find_me.args)
