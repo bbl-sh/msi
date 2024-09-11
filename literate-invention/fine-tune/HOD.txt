@@ -1,0 +1,275 @@
+department is : Department of Biochemistry
+Name is : Prof. Pawan Kumar Maurya
+Designation is : Professor
+Department is : Department of Biochemistry
+Contact number is : 9560869477
+Official email is : hodbiochem@cuh.ac.in
+---------
+department is : Department of Biotechnology
+Name is : Dr. Rupesh Deshmukh
+Designation is : Associate Professor
+Department is : Department of Biotechnology
+Contact number is : 9650792638
+Official email is : hodbiotechnology@cuh.ac.in
+---------
+department is : Department of Chemistry
+Name is : Prof. Harish Kumar
+Designation is : Professor
+Department is : Department of Chemistry
+Contact number is : 9466077870
+Official email is : hodchemistry@cuh.ac.in
+---------
+department is : Department of Civil Engineering
+Name is : Prof.Vikas Garg
+Designation is : Professor
+Department is : Department of Civil Engineering
+Contact number is : 9690757370
+Official email is : hodcivil@cuh.ac.in
+---------
+department is : Department of Commerce
+Name is : Dr. Rajendera Prasad Meena
+Designation is : Associate
+Professor
+Department is : Department of Commerce
+Contact number is : 8946947671
+Official email is : hodcommerce@cuh.ac.in
+---------
+department is : Department of Computer Science and
+Engineering
+Name is : Prof. Rakesh Kumar
+Designation is : Professor
+Department is : Department of Computer Science
+and Engineering
+Contact number is : 9416327669
+Official email is : hodcse@cuh.ac.in
+---------
+department is : Department of Computer Sciences
+and Information Technology
+Name is : Dr. Keshav Singh Rawat
+Designation is : Associate
+Professor
+Department is : Department of Computer Scinece &
+Information Technology
+Contact number is : 7018158005
+Official email is : hodcomputerscience@cuh.ac.in
+---------
+department is : Department of Economics
+Name is : Dr. Amandeep Verma
+Designation is : Associate
+Professor
+Department is : Department of Economics
+Contact number is : 9888670816
+Official email is : hodeco@cuh.ac.in
+---------
+department is : Department of Electrical Engineering
+Name is : Prof. Akash Saxena
+Designation is : Professor
+Department is : Department of Electrical
+Engineering
+Contact number is : 9672424999
+Official email is : hodee@cuh.ac.in
+---------
+department is : Department of English and Foreign
+Languages
+Name is : Prof. Sanjiv Kumar
+Designation is : Professor
+Department is : Department of English & Foreign
+Languages
+Contact number is : 9416132765
+Official email is : hodenglish@cuh.ac.in
+---------
+department is : Department of Environmental
+Studies
+Name is : Dr. Mona Sharma
+Designation is : Associate
+Professor
+Department is : Department of Environmental
+Studies
+Contact number is : 9991956470
+Official email is : hodenvsc@cuh.ac.in
+---------
+department is : Department of Geography
+Name is : Dr. Jitendra Kumar
+Designation is : Associate
+Professor
+Department is : Department of Geography
+Contact number is : 9812492229
+Official email is : hodgeography@cuh.ac.in
+---------
+department is : Department of Hindi
+Name is : Prof. Bir Pal Singh
+Designation is : Professor
+Department is : Department of Hindi
+Contact number is : 8055290240
+Official email is : hodhindi@cuh.ac.in
+---------
+department is : Department of History and
+Archaeology
+Name is : Dr. Narender Singh
+Designation is : Assistant
+Professor
+Department is : Department of History and
+Archaeology
+Contact number is : 8950238575
+Official email is : narenderparmar@cuh.ac.in
+---------
+department is : Department of Journalism and Mass
+Communication
+Name is : Dr. Ashok Kumar
+Designation is : Associate
+Professor
+Department is : Department of Journalism and Mass
+Communication
+Contact number is : 9813155366
+Official email is : hodjmc@cuh.ac.in
+---------
+department is : Department of Law
+Name is : Dr. Pardeep Singh
+Designation is : Associate
+Professor
+Department is : Department of Law
+Contact number is : 9416145459
+Official email is : hodlaw@cuh.ac.in
+---------
+department is : Department of Library and
+Information Science
+Name is : Dr. Shri Ram Pandey
+Designation is : Associate
+Professor
+Department is : Department of Library and
+Information Science
+Contact number is : 9636383110
+Official email is : hodlibsc@cuh.ac.in
+---------
+department is : Department of Management Studies
+Name is : Dr. Sunita Tanwar
+Designation is : Associate
+Professor
+Department is : Department of Management Studies
+Contact number is : 9971807447
+Official email is : hodmanagement@cuh.ac.in
+---------
+department is : Department of Mathematics
+Name is : Prof. Rajesh Kumar Gupta
+Designation is : Professor
+Department is : Department of Mathematics
+Contact number is : 9463940704
+Official email is : hodmaths@cuh.ac.in
+---------
+department is : Department of Microbiology
+Name is : Prof. Surender Singh
+Designation is : Professor
+Department is : Department of Microbiology
+Contact number is : 9999440484
+Official email is : hodmicrobiology@cuh.ac.in
+---------
+department is : Department of Nutrition Biology
+Name is : Dr. Kanti Prakash Sharma
+Designation is : Professor
+Department is : Department of Nutrition Biology
+Contact number is : 9829659294
+Official email is : hodnutrition@cuh.ac.in
+---------
+department is : Department of Pharmaceutical
+Sciences
+Name is : Dr. Dinesh Kumar
+Designation is : Associate
+Professor
+Department is : Department of Pharmaceutical
+Sciences
+Contact number is : 9466772500
+Official email is : hodpharma@cuh.ac.in
+---------
+department is : Department of Physical Education
+and Sports
+Name is : Dr. Jaiprakash Bhukar
+Designation is : Associate
+Professor
+Department is : Department of Physical Education
+and Sports
+Contact number is : 7514000914
+7000035927
+Official email is : hodphe@cuh.ac.in
+---------
+department is : Department of Physics and
+Astrophysics
+Name is : Prof. Sunita Srivastava
+Designation is : Professor
+Department is : Department of Physics and
+Astrophysics
+Contact number is : 9876437838
+Official email is : hodphysics@cuh.ac.in
+---------
+department is : Department of Political Science
+Name is : Dr. Ramesh Kumar
+Designation is : Associate
+Professor
+Department is : Department of Political Science
+Contact number is : 9813740070
+Official email is : hodpolscience@cuh.ac.in
+---------
+department is : Department of Printing and
+Packaging Technology
+Name is : Prof. Phool Singh
+Designation is : Professor
+Department is : Dean, School of Engineering &
+Technology
+Contact number is : 8376959182
+Official email is : hodppt@cuh.ac.in
+---------
+department is : Department of Psychology
+Name is : Prof. Payal Chandel
+Designation is : Professor
+Department is : Department of Psychology
+Contact number is : 9530025450
+Official email is : hodpsychology@cuh.ac.in
+---------
+department is : Department of Sanskrit
+Name is : Prof. Chanchal Kumar
+Sharma
+Designation is : Professor
+Department is : Dean, School of Humanities and
+Social Sciences
+Contact number is : 8222888272
+Official email is : hodsanskrit@cuh.ac.in
+---------
+department is : Department of Sociology
+Name is : Prof. Chanchal Kumar
+Sharma
+Designation is : Professor
+Department is : Dean, School of Humanities and
+Social Sciences
+Contact number is : 8222888272
+Official email is : hodsociology@cuh.ac.in
+---------
+department is : Department of Statistics
+Name is : Prof. Ranjan Kumar Sahoo
+Designation is : Professor
+Department is : Department of Statistics
+Contact number is : 9438166689
+Official email is : hodstatistics@cuh.ac.in
+---------
+department is : Department of Tourism and Hotel
+Management
+Name is : Dr. Ranbir Singh
+Designation is : Professor
+Department is : Department of Tourism and Hotel
+Management
+Contact number is : 9466096689
+Official email is : hodthm@cuh.ac.in
+---------
+department is : Department of Teacher Education
+Name is : Prof. Parmod Kumar
+Designation is : Professor
+Department is : Department of Teacher Education
+Contact number is : 9896755399
+Official email is : hodsoe@cuh.ac.in
+---------
+department is : Department of Yoga
+Name is : Prof. Neelam Sangwan
+Designation is : Professor
+Department is : Dean, School of Interdisciplinary
+and Applied Sciences
+Contact number is : 9415766696
+Official email is : hodyoga@cuh.ac.in
+---------

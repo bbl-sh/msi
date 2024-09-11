@@ -1,0 +1,2 @@
+go mod init example.com/learn -- for initilisation of the go repo
+go mod tidy -- for mentioning out the dependencies

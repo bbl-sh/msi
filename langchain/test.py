@@ -2,17 +2,19 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_ollama.llms import OllamaLLM
 from langchain import hub
 from langchain.agents import AgentExecutor, create_react_agent
-from tools.name import find_me
+from tools.name import find_me, news_search
 from langchain import hub
-
+from dotenv import load_dotenv
+load_dotenv()
 llm = OllamaLLM(
-    model = "llama3-groq-tool-use:latest"
+    model = "llama3.1:latest"
 )
 
-query = "where am i?"
+input_text = input("Ask me anything : ")
+query = input_text
 
 prompt_template = hub.pull("hwchase17/react")
-tools =  [find_me]
+tools =  [news_search]
 
 agent = create_react_agent(llm, tools, prompt_template)
 

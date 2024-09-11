@@ -1,0 +1,19 @@
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>You are an AI assistant that provides information about academic departments.<|eot_id|><|start_header_id|>user<|end_header_id|>Can you present the department information in a table format?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+| Field | Information |
+|-------|-------------|
+| Department | Department of Biochemistry |
+| Name | Prof. Pawan Kumar Maurya |
+| Designation | Professor |
+| Contact number | 9560869477 |
+| Official email | hodbiochem@cuh.ac.in |
+
+| Field | Information |
+|-------|-------------|
+| Department | Department of Biotechnology |
+| Name | Dr. Rupesh Deshmukh |
+| Designation | Associate Professor |
+| Contact number | 9650792638 |
+| Official email | hodbiotechnology@cuh.ac.in |
+
+<|eot_id|><|end_of_text|>
